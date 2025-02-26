@@ -2,8 +2,7 @@
 
 ## Preview
 
-[Include a screenshot or GIF of your Netflix Clone here.  If it's hosted online, you can link to it.]
-![Netflix Clone Preview]([URL to your preview image or demo])
+![Netflix Clone Preview](https://github.com/Shivgupta2983/clone/blob/45cf22f529c2a7d176dc4ad21926348a4325b860/Preview.png)
 
 ## Overview
 
